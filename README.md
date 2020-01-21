@@ -1,5 +1,6 @@
 # Introducing weQuest
-## A mobile app that matches user and owners of products through a reverse auction mechanism.Built for the Lighthouse Labs final project.
+## A mobile app that matches user and owners of products through a reverse auction mechanism.
+## Built for the Lighthouse Labs final project.
 ## Authors: [Kevin Laburte](https://github.com/kevlabs), [Leo Lee](https://github.com/leoltl), [Jackson To](https://github.com/checksonhk)
 
 ## Link: [Heroku host](https://wequest.xyz)
